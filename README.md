@@ -32,5 +32,7 @@
 在 Visual studio code 中使用指定的 Python 版本
 ---
 >  在 Anaconda Prompt 命令列，執行：code -n .
+
+>  在右下角有顯示目前的 Python 版本，點選後就可以在上方的 Select Interpreter 中選擇要使用的 Python 版本
  
 
