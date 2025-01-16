@@ -31,5 +31,6 @@
 
 在 Visual studio code 中使用指定的 Python 版本
 ---
->  只要在 Windows 命令列，執行：code -n .
+>  在 Anaconda Prompt 命令列，執行：code -n .
+ 
 
