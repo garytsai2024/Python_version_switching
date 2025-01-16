@@ -29,3 +29,7 @@
 ---
 >  若要驗證所啟動的 Python 版本，在 Anaconda Prompt，執行：Python
 
+在 Visual studio code 中使用指定的 Python 版本
+---
+>  只要在 Windows 命令列，執行：code -n .
+
